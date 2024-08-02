@@ -15,6 +15,8 @@ PyTorch 是一个基于 Python 的科学计算软件包，服务于两个广泛�
 ### 2.An automatic differentiation library that is useful to implement neural networks.
 2.一个用于实现神经网络的自动微分库。
 
+
+
 ### Goal of this tutorial: 
 本教程的目标：
 ### 1.Understand PyTorch’s Tensor library and neural networks at a high level.
