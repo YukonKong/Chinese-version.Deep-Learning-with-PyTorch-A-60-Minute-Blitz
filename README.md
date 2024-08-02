@@ -4,7 +4,7 @@
 
 =====================
 
-### What is PyTorch?
+## What is PyTorch?
 什么是 PyTorch？
 
 ### PyTorch is a Python-based scientific computing package serving two broad purposes:
@@ -17,7 +17,7 @@ PyTorch 是一个基于 Python 的科学计算软件包，服务于两个广泛�
 
 
 
-### Goal of this tutorial: 
+## Goal of this tutorial: 
 本教程的目标：
 ### 1.Understand PyTorch’s Tensor library and neural networks at a high level.
 1.理解 PyTorch 的 Tensor 库和神经网络的高级概念。
