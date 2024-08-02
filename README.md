@@ -2,7 +2,7 @@
 ### 作者： Soumith Chintala
 原文地址：https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 
-======================================================================================================
+=====================
 
 **What is PyTorch? **
 什么是 PyTorch？
@@ -24,7 +24,7 @@ PyTorch 是一个基于 Python 的科学计算软件包，服务于两个广泛�
 **To run the tutorials below, make sure you have the torch, torchvision, and matplotlib packages installed.**
 为确保正常运行以下教程，请确保已安装 torch、torchvision 和 matplotlib 包。
 
-======================================================================================================
+=====================
 
 翻译方式：GLM-4大模型 + 手动调整
 
