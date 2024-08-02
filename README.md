@@ -1,4 +1,9 @@
-# 英文原文：Deep Learning with PyTorch: A 60 Minute Blitz
+# Deep Learning with PyTorch: A 60 Minute Blitz 最新版中文译文，jupyter notebook文件下载即用。60分钟快速入门Pytorch，官方推荐教程。
+
+
+
+### 英文原文：Deep Learning with PyTorch: A 60 Minute Blitz
+
 **作者**： Soumith Chintala
 
 **原文地址**：https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
